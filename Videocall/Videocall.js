@@ -8,9 +8,9 @@ class VideoCall extends Component {
         super(props);
 
         this.state = {
-            apiKey: '46824604',
-            sessionId: '1_MX40NjgyNDYwNH5-MTU5NjYwNjE5MzkyNX56ejRvRDA0L3VDQm9OVUlRNyswREExSUl-fg',
-            token: 'T1==cGFydG5lcl9pZD00NjgyNDYwNCZzaWc9YjgyYjEwYWIwMWI1NTQ1OTg5NWY5NzYxMzI5YzBhYmYxZTliNTE5NjpzZXNzaW9uX2lkPTFfTVg0ME5qZ3lORFl3Tkg1LU1UVTVOall3TmpFNU16a3lOWDU2ZWpSdlJEQTBMM1ZEUW05T1ZVbFJOeXN3UkVFeFNVbC1mZyZjcmVhdGVfdGltZT0xNTk2NjA2MjE5Jm5vbmNlPTAuNzg1NjgzNTA5ODQxMTkzOCZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTk5MTk4MjE5JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9',
+            apiKey: '',
+            sessionId: '',
+            token: '',
         }
 
         // OTSession EventHandlers
